@@ -2,7 +2,7 @@
 
 **Exploratory Data Analysis**
 
-📌** Project Overview**
+📌   **Project Overview**
 
 This project was completed as part of my Data Analyst Internship with SWYNEX Technologies.
 
@@ -45,7 +45,7 @@ The following exploratory analyses were performed:
 - Customer identification analysis
 - High-volume transaction/outlier review
 
-📈** Key KPIs**
+📈**Key KPIs**
 
 Metric| Value
 Total Revenue| £10,642,110.80
